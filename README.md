@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Minhaj Hossen Mandal
+<a href="https://www.linkedin.com/in/minhaj-hossen-mandal-b12908280/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></a>
 
-<!--
-**minhaj771/minhaj771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast | Aspiring Red Team Operator  
+💻 Passionate about Offensive Security, Penetration Testing, and Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a very passionate cyber security student particularlly in the domain of **Offensive Security**
+I am currently focused on building strong skills in **Offensive Security and Penetration Testing**.  
+Actively participated on platforms like **TryHackMe and PortSwigger Labs**, while building **automation tools and security projects**.
+My long-term goal is to work as a **Red Team Operator and later specialize in AI Security / AI Red Teaming**.
+
+---
+
+## 🛠 Skills & Tools
+
+### 🔎 Recon & Enumeration
+### 🌐 Web Application Testing
+### 🖥 Network & Infrastructure
+### ⚔️ Offensive Security Tools
+### 💻 Programming & Scripting
+- Basic Bash
+- Basic Python
+- Basic automation scripting
+
+---
+
+## 📂 Featured Projects
+
+### 🔎 ReconAutomator
+Automates the reconnaissance phase of penetration testing.
